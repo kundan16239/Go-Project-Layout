@@ -1,0 +1,10 @@
+{
+    "mongodb_url": "",
+    "mongoDatabase": "",
+    "jwtSecret": "arKGQnD/XvJq2o1hdajad/8XBXA==",
+    "jwtAccessSecret": "arKGQnD/XvadhjnjadJq2o1h/8XBXA==",
+    "jwtRefreshSecret": "arKGQnD/XvJqashja2o1h/8XBXANEW==",
+    "accessTokenExpiryMinute": 50000,
+    "refreshTokenExpiryHour": 720
+}
+    
